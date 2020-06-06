@@ -1,0 +1,79 @@
+/* 
+@font-face {
+    font-family: myFirstFont;
+    src: url(Ubuntu-LightItalic.ttf);
+    
+} */
+
+#thisIsMyMainAboutDiv {
+    background-color: #FCE4EC;
+} 
+
+.thisIsMyPictureDiv , .thisIsMyImageClass {
+    float: left;
+    width: 45%;
+}
+
+.thisIsMyImageClass1 , .thisIsMyImageClass2 {
+    width: 100%;
+    /* height: ; */
+    margin: 0;
+    height: 520px;
+}
+
+
+
+                /* THE PARAGRAPH DIV STARTS RIGHT HERE */
+
+
+.thisIsMyParaDiv {
+    float: right;
+    width: 55%;
+    /* height: 600px; */
+    background-color: #FCE4EC;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    transition-delay: 2s;
+}
+
+.mainhead {
+    padding-bottom: 20px;
+}
+
+.myaboutfooter {
+    background-color: #EC407A;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-self: baseline;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+
+.myaboutfooterspan2 , .myaboutfooterspan{
+    text-align: right;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 30px;
+    color: #fff;
+}
+
+
+                /* CONTACT CSS DOCUMENT */
+
+
+.myContactDiv1 {
+    padding-top: 50px;
+    padding-left: 40px;
+}
+
+.HOURSCANTACTINFO {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contactinfo {
+    padding-top: 15px;
+}

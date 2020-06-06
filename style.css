@@ -1,0 +1,113 @@
+/* 
+*{
+    margin: 0;
+} */
+
+
+
+body {
+    background-color: #FCE4EC !important;
+}
+
+                            /* FIRST NAVBAR CONTAINING SHOP'S NAME */
+
+
+
+.mynavbarheading {
+    display: inline-block !important;
+}
+
+.myfirstnavbar {
+    background-color: #EC407A  !important;
+}
+
+.mysecondnavbar {
+    background-color: #EC407A  !important;
+    padding-left: 14px !important;
+}
+
+.myfirstnavbar , .mysecondnavbar {
+    height: 52px !important;
+    /* position: fixed; */
+}
+
+
+                                    /* END OF NAVBARS */
+
+                                    /* START OF SLIDER IMAGES */
+
+
+.mysliderimage {
+    width: 100%;
+    height: 400px;
+}
+
+.myfreeshippings {
+    margin-top: 100px !important;
+}
+
+.mycard {
+    display: inline-block !important;
+    margin-left: 30px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+    -moz-box-shadow: 0 0 10px #777777;
+    -webkit-box-shadow: 0 0 10px #777777;
+    box-shadow: 0 0 10px #777777;
+
+
+}
+
+.cardimages {
+    width: 400px;
+    height: 280px;
+}
+
+.productsheading {
+    text-align: center !important;
+    margin-top: 6%;
+}
+
+.productsheading , .shippingheading {
+    color: #EC407A;
+}
+
+.btn-primary {
+    background-color: #EC407A !important;
+    border-radius: 25px;
+}
+
+.navLinkList:hover , .btn-primary:hover {
+    /* width: 70px;
+    height: 50px; */
+    /* transition-duration: 0.2s; */
+    background-color: #AB47BC !important;
+    border-radius: 25px;
+    color:  #fff;
+}
+
+.navLinkList , .mynavbarheading {
+    color: #fff;
+}
+
+.myfooter {
+    background-color: #EC407A;
+    width: 100%;
+    height: 60px;
+    color: #fff;
+    padding-left: 50px;
+    padding-top: 20px;
+    /* margin-top: 80px; */
+    margin-top: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.myfooterspan , .myfooterspan2 {
+    font-weight: 500;
+}
+
+.myfooterspan2 {
+    float: right;
+    margin-right: 50px  ;
+}
